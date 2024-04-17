@@ -1,0 +1,9 @@
+
+communicate round 1  accuracy: 0.09999998658895493
+communicate round 2  accuracy: 0.10000001639127731
+communicate round 3  accuracy: 0.10000001639127731
+communicate round 4  accuracy: 0.09999998658895493
+communicate round 1  accuracy: 0.10000001639127731
+communicate round 2  accuracy: 0.09999998658895493
+communicate round 1  accuracy: 0.09999998658895493
+communicate round 2  accuracy: 0.09999998658895493
